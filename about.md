@@ -5,6 +5,9 @@ author: "Will Luers"
 permalink: /about/
 ---
 
+## Portfolio
+[will-luers.com](http://will-luers.com)
+
 ## STATEMENT
 As a primarily visual digital artist, my medium is the pixel grid. The pixel grid of an image, video or browser window, is a numeric, encoded, highly organized system that takes instruction, responds to error and interference, and is a surface for gestural expression and inscription. I explore this pixel space through a variety of often simultaneous compositional practices: cinema, painting, writing and programming.
 
@@ -17,6 +20,7 @@ Will Luers is digital media artist and writer living in Portland,Oregon. In the 
 
 ## CONTACT
 w l u e r s @ g m a i l . com 
+
 
 
 ## Contribute
