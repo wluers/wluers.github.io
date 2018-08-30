@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Digital Cinema-Writing
+description:    "computational cinema, digital language arts, electronic literature"
 baseurl:        
 url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Will Luers
+  url:          https://will-luers.com
+  email:        wluers@gmail.com
 
 # Build settings
 markdown:       kramdown
