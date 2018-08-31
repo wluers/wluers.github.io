@@ -170,8 +170,6 @@ Uda\_san. [http://www.iamas.ac.jp/~makura/index\_old.html](http://www.iamas.ac.j
 
 Vrobel, Susie. _Fractal Time: Why a Watched Kettle Never Boils_. World Scientific Publishing Company, 2011.
 
-Vrobel, Susie. Fractal Time: Why a Watched Kettle Never Boils. World Scientific Publishing Company, 2011.
-
 Vrobel, Susie, et al., editors. Simultaneity: Temporal Structures And Observer Perspectives. Wspc, 2008.
 
 Wall-Romana, Christophe. Jean Epstein: Corporeal Cinema and Film Philosophy. Reprint edition, Manchester University Press, 2016.Philosophy. Reprint edition, Manchester University Press, 2016.
