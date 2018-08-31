@@ -4,8 +4,6 @@ title: "Narrative Potentials of the Loop"
 author: "Will Luers"
 ---
 
-# Narrative Potentials of the Loop
-
 ## Abstract
 
 _In digital representations of time and space, every point is virtually next to any other point. While a digital loop may certainly have a beginning and an end, the end of the loop is as close to the beginning as any other point in the timeline. There is no rewind required. A loop is an abstraction that blurs the sense of linear time. A loop that calls attention to itself, that is in the foreground of a user&#39;s experience, puts a frame around temporal sequence, holds it up for inspection rather than narrative immersion. What insights about thought, experience, time and event does the digital loop offer as an expressive element? Drawing on examples of loops in electronic literature past and present, this paper will explore how loops of digital media, along with scripted loops, offers new ways of describing contemporary networked experience._
