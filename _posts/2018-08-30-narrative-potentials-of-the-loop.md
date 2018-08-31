@@ -18,17 +18,17 @@ In avant-garde films of the 1920&#39;s, repetitions and looped sequences were em
 
 >this machine that stretches or condenses duration, demonstrating that variable nature of time, preaching the relativity of all measures, appears to be endowed with a psyche… the machine is a concrete tool buts its workings provide such a sophisticated semblance of the human mind…(pg 18)
 
-![Jean Epstein](loops/epstein1.gif)
+![Jean Epstein](/loops/epstein1.gif)
 
-![Jean Epstein](loops/epstein2.gif)
+![Jean Epstein](/loops/epstein2.gif)
 
-![Jean Epstein](loops/epstein3.gif)
+![Jean Epstein](/loops/epstein3.gif)
 
-![Jean Epstein](loops/epstein4.gif)
+![Jean Epstein](/loops/epstein4.gif)
 
-![Jean Epstein](loops/epstein5.gif)
+![Jean Epstein](/loops/epstein5.gif)
 
-![Jean Epstein](loops/epstein6.gif)
+![Jean Epstein](/loops/epstein6.gif)
 
 In his well-know amusement park scene from _Coeur Fid __è__ le_, Epstein creates a dizzying sequence of shots made of looped movements – not only the mechanical loop of the carousel, but the flutter of tree branches, clothing and papers streamers. These &quot;nested loops&quot; mirror the narrative of a woman trapped in her own patterns of destructive repetition.  While this uniquely cinematic attention to the repetitions of movement in the physical world is far from the exact repetitions in contemporary digital loops, we can ask a similar question that Epstein asked about the new temporalities of his medium: what are the narrative potentials of the loop in digital fiction?
 
