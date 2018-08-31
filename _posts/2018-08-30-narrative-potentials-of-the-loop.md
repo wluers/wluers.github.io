@@ -18,8 +18,8 @@ In avant-garde films of the 1920&#39;s, repetitions and looped sequences were em
 
 <br>
 
-| ![Jean Epstein](/loops/epstein1.gif) | ![Jean Epstein](/loops/epstein5.gif) | ![Jean Epstein](/loops/epstein6.gif)
-_Coeur Fidèle, by Jean Epstein_ |
+| ![Jean Epstein](/loops/epstein1.gif) | ![Jean Epstein](/loops/epstein5.gif) | ![Jean Epstein](/loops/epstein6.gif) |
+_Coeur Fidèle, by Jean Epstein_ 
 
 <br>
 
