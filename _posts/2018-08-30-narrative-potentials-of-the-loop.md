@@ -58,6 +58,8 @@ The single short loop can also be packed with montaged images and sounds and can
 
 ## Sequential Loops
 
+![Erik Loyer](/loops/loyer.gif)
+
 Motion comics are an emerging form of digital comics that include subtle, usually looping movements, within a sequence of panels. Eric Loyer is one of the leading artists and software designers in this form. His work with Ezra Claytan Daniels on the graphic novel _Upgrade Soul_, uses Loyer&#39;s own software Panoply, an engine that turns each panel of a comic into a 3D space in which layers of graphic elements loop motion for a parallax effect.  In Loyer&#39;s essay about motion comics, _Timeframing: the Art of Comics on Screen,_ he highlights this and other works that incorporate gif animations into sequenced panels, creating what Loyer calls &quot;temporal polyrhythms.&quot;  This music analogy is fitting, because of the different scales of simultaneous rhythms: the temporal map of the comic&#39;s inter-panel progression and the various nested intra-panel movements. Like Jean Epstein&#39;s nested loops in the carnival sequence of _Coeur Fid __è__ le__,_ the loops suggest varying scales of perceived or felt time within a clear narrative progression.
 
 
