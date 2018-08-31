@@ -148,7 +148,8 @@ Electronic Literature: What Is It? [https://eliterature.org/pad/elp.html](https:
 
 Epstein, Jean. The Intelligence of a Machine. 1 edition, Univocal Publishing, 2014.
 
-Gorman, Samantha, and Cannizzaro. PRY on the App Store. [https://itunes.apple.com/us/app/pry/id846195114?mt=8](https://itunes.apple.com/us/app/pry/id846195114?mt=8). Accessed 28 June 2018.
+Gorman, Samantha, and Cannizzaro. PRY on the App Store. 
+[https://itunes.apple.com/us/app/pry/id846195114?mt=8](https://itunes.apple.com/us/app/pry/id846195114?mt=8). Accessed 28 June 2018.
 
 Kawin, Bruce F. Telling It Again and Again: Repetition in Literature and Film. First Edition edition, Cornell University Press, 1972.
 
