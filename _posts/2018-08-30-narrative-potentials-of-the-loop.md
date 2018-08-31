@@ -17,14 +17,11 @@ In avant-garde films of the 1920&#39;s, repetitions and looped sequences were em
 >this machine that stretches or condenses duration, demonstrating that variable nature of time, preaching the relativity of all measures, appears to be endowed with a psyche… the machine is a concrete tool buts its workings provide such a sophisticated semblance of the human mind…(pg 18)
 
 
-![Jean Epstein](/loops/epstein1.gif)
-
-![Jean Epstein](/loops/epstein5.gif)
-
-![Jean Epstein](/loops/epstein6.gif)
+| ![Jean Epstein](/loops/epstein1.gif) | ![Jean Epstein](/loops/epstein5.gif) | ![Jean Epstein](/loops/epstein6.gif)
+_Coeur Fidèle, by Jean Epstein_ |
 
 
-In his well-know amusement park scene from _Coeur Fid __è__ le_, Epstein creates a dizzying sequence of shots made of looped movements – not only the mechanical loop of the carousel, but the flutter of tree branches, clothing and papers streamers. These &quot;nested loops&quot; mirror the narrative of a woman trapped in her own patterns of destructive repetition.  While this uniquely cinematic attention to the repetitions of movement in the physical world is far from the exact repetitions in contemporary digital loops, we can ask a similar question that Epstein asked about the new temporalities of his medium: what are the narrative potentials of the loop in digital fiction?
+In his well-know amusement park scene from _Coeur Fidèle_, Epstein creates a dizzying sequence of shots made of looped movements – not only the mechanical loop of the carousel, but the flutter of tree branches, clothing and papers streamers. These &quot;nested loops&quot; mirror the narrative of a woman trapped in her own patterns of destructive repetition.  While this uniquely cinematic attention to the repetitions of movement in the physical world is far from the exact repetitions in contemporary digital loops, we can ask a similar question that Epstein asked about the new temporalities of his medium: what are the narrative potentials of the loop in digital fiction?
 
 One of Katherine Hayles&#39; four characteristics of electronic literature is a _fractured temporality._  The spatial navigation ofhypertext fictionmayinvolve repetitions in the traversal of lexia.  The processual engagement of cybertexts may involve repetitions in the selection of media.  If beginnings and endings becomelost to the cyclical and repetitious, what kind of experience might the computational loophelp to narrate?  Lev Manovich, in his 2002_The Language of New Media_, speculated about the digital loop&#39;s future as a narrative element. Instead of treating loops as a &quot;temporary technological limitation&quot;, Manovich wonders if loops are a narrative engine for &quot;a new temporality.&quot;(315)  Starting in the late 90s, the gif animation became a ubiquitous cultural form in works of &quot;new media.&quot; Animated loops were on webpages, works of net art, hypertext, CD-roms, video games and DVD menus. Loops were simple and efficient ways to add motion to static pages of text. The narrative uses of the loop matured with interactive Flash sites. From graphic animations to video loops, Flash fulfilled, for a time, the promise of a truly &quot;interactive cinema.&quot; With improvements in connection speeds, the video loops in Flash sites became longer and more immersive sequences. In the same way that sound altered the evolution of silent cinema art, high-speed connections and better video compression altered the developments of an &quot;interactive cinema&quot; made of video loops, text and sound in favor of the more immersiveand less fragmentary high-definition video of the YouTube age. Video games continue to use computational loops in interesting ways, but they are primarily hidden effects for more &quot;movie-like&quot; narrative immersion. With social media platforms, such as Snapchat, Instagram and the now defunct Vine, the loop returns as a popular and highly expressive form of entertainment, commentary and satire, but mostly within non-narrative contexts. The following are observations about how loops and looping have been used as narrative elements and how they might be integrated into a computational and multimodal writing practice.
 
@@ -38,7 +35,7 @@ Kawin&#39;s observation about near-repetition does also apply to digital loops f
 
 
 ![Samuel Beckett](/loops/beckett.gif)
-
+_Quad, by Samuel Beckett_
 
 Along with the fiction of Calvino and Borges, Beckett&#39;s late works have been an important resource for the practice of computational literature, because of their extreme aesthetics of repetition and iteration. Beckett&#39;s short 1980 &quot;television play,&quot; _Quad,_  stages algorithms of exact repetition performed by four hooded monk-like figures around a square stage. The figures have their heads bowed down and seem oblivious to their &quot;brothers&quot; in different colored robes, and yet each follows the exact same algorithm. However, these strict movements, made either out of habit or as directed by an unknown authority, must be slightly different. There is the perceived differences between the performers, between their own solitary iterations and for the viewer&#39;s evolving attention to the variable patterns. The fascination, and even humor, for the viewer is the expectation of a collision or mishap. It is the accumulation of patterned repetitions, a variable looping, that holds interest in a performance nearly devoid of narrative. And yet, the viewer&#39;s attention to these slight differences within the overall sameness reveals a hidden narrative that is congruent with much of Beckett&#39;s fiction. Like Godot, the expectation of a collision never arrives. There is no pratfall or tragic event, only blind habit moving forward and then winding down.
 
@@ -50,7 +47,7 @@ To be perceived as repetition, rather than as a linear succession that simply re
 
 
 ![Olia Lialina](/loops/olia.gif)
-
+_My Boyfriend Came Back from the War, by Olia Lialina_
 
 The single short gif animation in Olia Lialina&#39;s _My Boyfriend Came Back from the War (1996),_ is an infinite loop of fluctuating light in the trees outside a window. It is a curious choice for an artist who was one of the earliest net artists to explore the expressive potentials of the loop. This subtle window loop, however, is a key element to establish the setting and context for a fragmented conversation between an estranged couple. The loop&#39;s pulsing light provides  a contrast to the static forms in the dark interior. The repetition remains constant throughout the navigation of the work and is in fact the only moving element other than the users own interaction through clicking panels of text and image. With the context of the unfolding conversation, the pulsing of light is an analogue for the outside world, of the natural world just outside the domestic interior, but also, perhaps, of the explosions of war farther away. The pulse also suggests a beating heart or the steady tick of a clock that fills the silences.
 
@@ -59,13 +56,13 @@ The single short loop can also be packed with montaged images and sounds and can
 ## Sequential Loops
 
 ![Erik Loyer](/loops/loyer.gif)
+_Upgrade Soul, by Ezra Claytan Daniels and Erik Loyer_
 
 Motion comics are an emerging form of digital comics that include subtle, usually looping movements, within a sequence of panels. Eric Loyer is one of the leading artists and software designers in this form. His work with Ezra Claytan Daniels on the graphic novel _Upgrade Soul_, uses Loyer&#39;s own software Panoply, an engine that turns each panel of a comic into a 3D space in which layers of graphic elements loop motion for a parallax effect.  In Loyer&#39;s essay about motion comics, _Timeframing: the Art of Comics on Screen,_ he highlights this and other works that incorporate gif animations into sequenced panels, creating what Loyer calls &quot;temporal polyrhythms.&quot;  This music analogy is fitting, because of the different scales of simultaneous rhythms: the temporal map of the comic&#39;s inter-panel progression and the various nested intra-panel movements. Like Jean Epstein&#39;s nested loops in the carnival sequence of _Coeur Fid __è__ le__,_ the loops suggest varying scales of perceived or felt time within a clear narrative progression.
 
 
-![Atsuko Uda](/loops/uda1.gif)
-![Atsuko Uda](/loops/uda2.gif)
-![Atsuko Uda](/loops/uda3.gif)
+![Atsuko Uda](/loops/uda1.gif) | ![Atsuko Uda](/loops/uda2.gif) |![Atsuko Uda](/loops/uda3.gif)
+_The Couple, by Atsuko Uda_
 
 
 Atsuko Uda, a Flash artist who between 1999 and 2004 created a series of very short &quot;interactive movies&quot;, developed some innovative techniques for multi-panel narrative with video loops. Story progression and change is triggered by simply hovering the mouse in and out of panels. The challenge for live action video loops inside a motion comic format is that the movements of characters can easily become artificial if they aren&#39;t carefully choreographed. Uda solves this problem by simply exaggerating human gestures to emphasize their semi-static repetition. These isolated looped gestures become signs of either boredom through repetitious behavior or delight in simple mundane pleasures. When there is a need to begin and end an action, for example a figure moving out of the frame, a script triggers a new movement on a new panel or even a new sequence of panels.  These little stories of everyday life, are also intended to be read iteratively. They often end with a button labeled &quot;repeat&quot;, as if the moment depicted in multiple simultaneous panels passed by too quickly to register.
@@ -80,9 +77,9 @@ As in the above sentence, the prose depiction of simultaneity is a sequence of s
 
 
 ![Jean-Louis Boissier](/loops/boissier1.gif)
+_Upgrade Soul, by Ezra Claytan Daniels and Erik Loyer_
 
-
-Short loops, loops under the 30 seconds of short-term memory, in spatial juxtaposition creates the illusion of a perceived simultaneity. The juxtaposition of longer edited sequences (greater than 30 seconds) would likely challenge the viewer&#39;s attention and, unless carefully choreographed, break the perception of events happening at once. Manovich coined the term &quot;spatial montage,&quot; which describes the logic of interfaces made of layered, spatially arranged media elements. His example for this new temporality of simultaneous streams of media is the 1993 CD-ROM _Flora petrinsularis_byJean-Louis Boissier in which short adjacent loops read not as a sequence, but as clickable views on &quot;coexisting temporalities.&quot; (320) 
+Short loops, loops under the 30 seconds of short-term memory, in spatial juxtaposition creates the illusion of a perceived simultaneity. The juxtaposition of longer edited sequences (greater than 30 seconds) would likely challenge the viewer&#39;s attention and, unless carefully choreographed, break the perception of events happening at once. Manovich coined the term &quot;spatial montage,&quot; which describes the logic of interfaces made of layered, spatially arranged media elements. His example for this new temporality of simultaneous streams of media is the 1993 CD-ROM _Flora petrinsularis_by Jean-Louis_ in which short adjacent loops read not as a sequence, but as clickable views on &quot;coexisting temporalities.&quot; (320) 
 
 Of course, spatial montage or multi-panel displays of loops  are now quite common in web sites, video art installations, advertising displays, tv news programs and even movies. This simultaneity is, however, often working to compete for the user&#39;s divided attention. The looping ad in the sidebar is not there to create a sense of wholeness. Comics are a form of spatial montage, but in most cases the multiple panels follow a linear progression or temporal map rather than present co-existing temporalities. Scott McCloud refers to a nonlinear relationship between panels, most prevalent in Japanese manga,  as &quot;aspect-to-aspect&quot; in which multiple panels provide different views of the same scene. This aspect-to-aspect simultaneity of short loops can clearly be seen in Atsuko Uda&#39;s comics-inspired Flash work and in many works of motion comics.
 
@@ -98,7 +95,7 @@ Vrobel makes clear that &quot;fractal time is a generalization, as the Newtonian
 
 
 ![Gorman and Cannizzaro](/loops/pry1.gif)
-
+_Pry, by Samantha Gorman and Danny Cannizzaro_
 
 Samantha Gorman and Danny Cannizzaro&#39;s _Pry_ app is an example of work of fiction that uses complex nested loops to describe a fractal Now. The work has many scales of loops working to hide and reveal the events leading to James, an Iraq war veteran, lying in a bed, staring at the ceiling as he loses his sight. The destructive central loop is the mystery of war trauma itself.  James&#39; consciousness cycles around the relationship to his brother, their family, the woman he loves, and the experience in Iraq.  The navigation of the work involves gestural loops of prying James&#39; eyes to access sometimes blurred realms of inner and outer experience. There are the dense loops of flashing text and image that bring up strong emotional content. And then there are the variable loops that revisit the same events from different perspectives. Some of the video fragments do not loop, or rather the videos collapse when they end, but this doesn&#39;t mean that these same fragments won&#39;t repeat as the user navigates cyclically through a dense mostly nonlinear expanse of consciousness. The loops that make up Pry&#39;s fictional world are both variable and exact repetitions. They are sequential, simultaneous and are all nested in a character&#39;s Now. The work is segmented into chapters, and we learn more of the story by successive &quot;prying&quot;, and yet the fiction is materially and narratively accessed through computational loops.
 
@@ -110,7 +107,7 @@ Living creatures are nested in many simultaneous temporal cycles: life cycles, b
 
 ## Works Cited
 
-Amerika, Mark http://www.markamerika.com/filmtext/
+Amerika, Mark [http://www.markamerika.com/filmtext/](http://www.markamerika.com/filmtext/)
 
 Ciccoricco, David. Reading Network Fiction. University of Alabama Press, 2007.
 
@@ -118,11 +115,11 @@ Deleuze, Gilles. Bergsonism. Translated by Hugh Tomlinson and Barbara Habberjam,
 
 Duarte, German A. Fractal Narrative: About the Relationship Between Geometries and Technology and Its Impact on Narrative Spaces. transcript Verlag, 2014.
 
-Electronic Literature: What Is It? https://eliterature.org/pad/elp.html. Accessed 10 Apr. 2018.
+Electronic Literature: What Is It? [https://eliterature.org/pad/elp.html](https://eliterature.org/pad/elp.html). Accessed 10 Apr. 2018.
 
 Epstein, Jean. The Intelligence of a Machine. 1 edition, Univocal Publishing, 2014.
 
-Gorman, Samantha, and Cannizzaro. PRY on the App Store. https://itunes.apple.com/us/app/pry/id846195114?mt=8. Accessed 28 June 2018.
+Gorman, Samantha, and Cannizzaro. PRY on the App Store. [https://itunes.apple.com/us/app/pry/id846195114?mt=8](https://itunes.apple.com/us/app/pry/id846195114?mt=8). Accessed 28 June 2018.
 
 Kawin, Bruce F. Telling It Again and Again: Repetition in Literature and Film. First Edition edition, Cornell University Press, 1972.
 
@@ -130,17 +127,17 @@ Manovich, Lev. The Language of New Media. Reprint edition, The MIT Press, 2002.
 
 McCloud, Scott. Understanding Comics: The Invisible Art. Reprint edition, William Morrow Paperbacks, 1994.
 
-Opertoon | Panoply: Comics &amp; Splitscreen for Unity. http://opertoon.com/panoply/. Accessed 31 July 2018.
+Opertoon | Panoply: Comics &amp; Splitscreen for Unity. [http://opertoon.com/panoply/](http://opertoon.com/panoply/). Accessed 31 July 2018.
 
 Pressman, Jessica. Digital Modernism: Making It New in New Media. 1 edition, Oxford University Press, 2014.
 
-Samuel Beckett Quad. YouTube, https://www.youtube.com/watch?v=LPJBIvv13Bc. Accessed 2 Aug. 2018.
+Samuel Beckett Quad. YouTube, [https://www.youtube.com/watch?v=LPJBIvv13Bc](https://www.youtube.com/watch?v=LPJBIvv13Bc). Accessed 2 Aug. 2018.
 
 Stein, Gertrude. Lectures in America. First Thus Used edition, Vintage Books, 1975.
 
-&quot;Timeframing: The Art of Comics on Screens.&quot; Timeframing: The Art of Comics on Screens, http://scalar.usc.edu/works/timeframing/index. Accessed 29 July 2018.
+&quot;Timeframing: The Art of Comics on Screens.&quot; Timeframing: The Art of Comics on Screens, [http://scalar.usc.edu/works/timeframing/index](http://scalar.usc.edu/works/timeframing/index). Accessed 29 July 2018.
 
-Uda\_san. http://www.iamas.ac.jp/~makura/index\_old.html. Accessed 30 July 2018.
+Uda\_san. [http://www.iamas.ac.jp/~makura/index\_old.html](http://www.iamas.ac.jp/~makura/index\_old.html). Accessed 30 July 2018.
 
 Vrobel, Susie. _Fractal Time: Why a Watched Kettle Never Boils_. World Scientific Publishing Company, 2011.
 
