@@ -166,7 +166,7 @@ Stein, Gertrude. Lectures in America. First Thus Used edition, Vintage Books, 19
 
 &quot;Timeframing: The Art of Comics on Screens.&quot; Timeframing: The Art of Comics on Screens, [http://scalar.usc.edu/works/timeframing/index](http://scalar.usc.edu/works/timeframing/index). Accessed 29 July 2018.
 
-Uda\_san. [http://www.iamas.ac.jp/~makura/index\_old.html](http://www.iamas.ac.jp/~makura/index\_old.html). Accessed 30 July 2018.
+Uda\_san. [http://www.iamas.ac.jp/~makura/index_old.html](http://www.iamas.ac.jp/~makura/index_old.html). Accessed 30 July 2018.
 
 Vrobel, Susie. _Fractal Time: Why a Watched Kettle Never Boils_. World Scientific Publishing Company, 2011.
 
