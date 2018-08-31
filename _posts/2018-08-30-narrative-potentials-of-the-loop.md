@@ -138,32 +138,31 @@ Living creatures are nested in many simultaneous temporal cycles: life cycles, b
 
 Amerika, Mark [http://www.markamerika.com/filmtext/](http://www.markamerika.com/filmtext/)
 
-Ciccoricco, David. Reading Network Fiction. University of Alabama Press, 2007.
+Ciccoricco, David. _Reading Network Fiction_. University of Alabama Press, 2007.
 
-Deleuze, Gilles. Bergsonism. Translated by Hugh Tomlinson and Barbara Habberjam, Reissue                 edition, Zone Books, 1990.
+Deleuze, Gilles. _Bergsonism_. Translated by Hugh Tomlinson and Barbara Habberjam, Reissue                 edition, Zone Books, 1990.
 
-Duarte, German A. Fractal Narrative: About the Relationship Between Geometries and Technology and Its Impact on Narrative Spaces. transcript Verlag, 2014.
+Duarte, German A. _Fractal Narrative: About the Relationship Between Geometries and Technology and Its Impact on Narrative Spaces_. transcript Verlag, 2014.
 
-Electronic Literature: What Is It? [https://eliterature.org/pad/elp.html](https://eliterature.org/pad/elp.html). Accessed 10 Apr. 2018.
+_Electronic Literature: What Is It?_ [https://eliterature.org/pad/elp.html](https://eliterature.org/pad/elp.html). Accessed 10 Apr. 2018.
 
-Epstein, Jean. The Intelligence of a Machine. 1 edition, Univocal Publishing, 2014.
+Epstein, Jean. _The Intelligence of a Machine_. 1 edition, Univocal Publishing, 2014.
 
-Gorman, Samantha, and Cannizzaro. PRY on the App Store. 
-[https://itunes.apple.com/us/app/pry/id846195114?mt=8](https://itunes.apple.com/us/app/pry/id846195114?mt=8). Accessed 28 June 2018.
+Gorman, Samantha, and Cannizzaro. _PRY_ on the App Store. [https://itunes.apple.com/us/app/pry/id846195114?mt=8](https://itunes.apple.com/us/app/pry/id846195114?mt=8). Accessed 28 June 2018.
 
-Kawin, Bruce F. Telling It Again and Again: Repetition in Literature and Film. First Edition edition, Cornell University Press, 1972.
+Kawin, Bruce F. _Telling It Again and Again: Repetition in Literature and Film_. First Edition edition, Cornell University Press, 1972.
 
-Manovich, Lev. The Language of New Media. Reprint edition, The MIT Press, 2002.
+Manovich, Lev. _The Language of New Media_. Reprint edition, The MIT Press, 2002.
 
-McCloud, Scott. Understanding Comics: The Invisible Art. Reprint edition, William Morrow Paperbacks, 1994.
+McCloud, Scott. _Understanding Comics: The Invisible Art_. Reprint edition, William Morrow Paperbacks, 1994.
 
-Opertoon | Panoply: Comics &amp; Splitscreen for Unity. [http://opertoon.com/panoply/](http://opertoon.com/panoply/). Accessed 31 July 2018.
+_Opertoon | Panoply: Comics &amp; Splitscreen for Unity_. [http://opertoon.com/panoply/](http://opertoon.com/panoply/). Accessed 31 July 2018.
 
-Pressman, Jessica. Digital Modernism: Making It New in New Media. 1 edition, Oxford University Press, 2014.
+Pressman, Jessica. _Digital Modernism: Making It New in New Media_. 1 edition, Oxford University Press, 2014.
 
 Samuel Beckett Quad. YouTube, [https://www.youtube.com/watch?v=LPJBIvv13Bc](https://www.youtube.com/watch?v=LPJBIvv13Bc). Accessed 2 Aug. 2018.
 
-Stein, Gertrude. Lectures in America. First Thus Used edition, Vintage Books, 1975.
+Stein, Gertrude. _Lectures in America_. First Thus Used edition, Vintage Books, 1975.
 
 &quot;Timeframing: The Art of Comics on Screens.&quot; Timeframing: The Art of Comics on Screens, [http://scalar.usc.edu/works/timeframing/index](http://scalar.usc.edu/works/timeframing/index). Accessed 29 July 2018.
 
@@ -171,6 +170,6 @@ Uda\_san. [http://www.iamas.ac.jp/~makura/index_old.html](http://www.iamas.ac.jp
 
 Vrobel, Susie. _Fractal Time: Why a Watched Kettle Never Boils_. World Scientific Publishing Company, 2011.
 
-Vrobel, Susie, et al., editors. Simultaneity: Temporal Structures And Observer Perspectives. Wspc, 2008.
+Vrobel, Susie, et al., editors. _Simultaneity: Temporal Structures And Observer Perspectives_. Wspc, 2008.
 
-Wall-Romana, Christophe. Jean Epstein: Corporeal Cinema and Film Philosophy. Reprint edition, Manchester University Press, 2016.Philosophy. Reprint edition, Manchester University Press, 2016.
+Wall-Romana, Christophe. _Jean Epstein: Corporeal Cinema and Film Philosophy_. Reprint edition, Manchester University Press, 2016.Philosophy.
