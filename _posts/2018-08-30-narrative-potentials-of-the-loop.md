@@ -59,6 +59,13 @@ _My Boyfriend Came Back from the War, by Olia Lialina_
 
 The single short gif animation in Olia Lialina&#39;s _My Boyfriend Came Back from the War (1996),_ is an infinite loop of fluctuating light in the trees outside a window. It is a curious choice for an artist who was one of the earliest net artists to explore the expressive potentials of the loop. This subtle window loop, however, is a key element to establish the setting and context for a fragmented conversation between an estranged couple. The loop&#39;s pulsing light provides  a contrast to the static forms in the dark interior. The repetition remains constant throughout the navigation of the work and is in fact the only moving element other than the users own interaction through clicking panels of text and image. With the context of the unfolding conversation, the pulsing of light is an analogue for the outside world, of the natural world just outside the domestic interior, but also, perhaps, of the explosions of war farther away. The pulse also suggests a beating heart or the steady tick of a clock that fills the silences.
 
+<br>
+
+![Mark Amerika](/loops/amerika.gif)
+_Filmtext, by Mark Amerika_
+
+<br>
+
 The single short loop can also be packed with montaged images and sounds and can suggest temporal density or give an impression of speed and flux. Mark Amerika&#39;s _Filmtext_ uses the montaged loop sparingly to bring about surprising bursts of energy in sharp contrast to the desert landscape and relatively static interface. The work, being about &quot;metatourism,&quot; reflects a subjective space and temporality made of language effects rather than representations of an external world. The loop, along with text, movement, graphic elements and image, is part of an expressive toolset for the &quot;digital thoughtographer.&quot;
 
 ## Sequential Loops
