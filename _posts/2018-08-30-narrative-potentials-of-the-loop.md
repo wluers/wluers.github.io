@@ -81,7 +81,7 @@ Motion comics are an emerging form of digital comics that include subtle, usuall
 
 <br>
 
-| ![Atsuko Uda](/loops/uda1.gif) | ![Atsuko Uda](/loops/uda2.gif) |![Atsuko Uda](/loops/uda3.gif) |
+| ![Atsuko Uda](/loops/uda1.gif) | ![Atsuko Uda](/loops/uda2.gif) | ![Atsuko Uda](/loops/uda3.gif) |
 _The Couple, by Atsuko Uda_
 
 <br>
