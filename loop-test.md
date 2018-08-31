@@ -98,7 +98,7 @@ Living creatures are nested in many simultaneous temporal cycles: life cycles, b
 
 ## Works Cited
 
-Amerika, Mark http://www.markamerika.com/filmtext/
+Amerika, Mark [http://www.markamerika.com/filmtext/](http://www.markamerika.com/filmtext/)
 
 Ciccoricco, David. Reading Network Fiction. University of Alabama Press, 2007.
 

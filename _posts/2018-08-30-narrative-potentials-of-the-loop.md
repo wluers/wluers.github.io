@@ -20,12 +20,6 @@ In avant-garde films of the 1920&#39;s, repetitions and looped sequences were em
 
 ![Jean Epstein](/loops/epstein1.gif)
 
-![Jean Epstein](/loops/epstein2.gif)
-
-![Jean Epstein](/loops/epstein3.gif)
-
-![Jean Epstein](/loops/epstein4.gif)
-
 ![Jean Epstein](/loops/epstein5.gif)
 
 ![Jean Epstein](/loops/epstein6.gif)
