@@ -15,7 +15,7 @@ The gif animation, the looped 6-second video and the &quot;cinemagraph&quot; are
 In avant-garde films of the 1920&#39;s, repetitions and looped sequences were employed to deliberately work against narrative development for either poetic or purely optical effects.  Jean Epstein, a cinema artist and theorist from this period, had a great interest in the range of temporal effects available for narrative cinema. He argued that cinema is not just an mechanical extension of vision, in the way the telescope and microscope are extensions of the eyes&#39; range of perception, but that techniques such as reverse motion, slow motion, fast motion, rapid montage and repetition are non-human additions to perception and thought. Cinema&#39;s catalog of temporal effects are machine abstractions that can depict subjective states, especially if used within narrative structures. Epstein was interested in how these novel temporal effects could translate for the viewer as states of consciousness:
 
 >this machine that stretches or condenses duration, demonstrating that variable nature of time, preaching the relativity of all measures, appears to be endowed with a psyche… the machine is a concrete tool buts its workings provide such a sophisticated semblance of the human mind…(pg 18)
-
+<br>
 
 | ![Jean Epstein](/loops/epstein1.gif) | ![Jean Epstein](/loops/epstein5.gif) | ![Jean Epstein](/loops/epstein6.gif)
 _Coeur Fidèle, by Jean Epstein_ |
@@ -32,7 +32,7 @@ In his 1972 study of repetition in literature and film, _Telling It Again and Ag
 >…any repetition taking place in advancing time is undiscussable. The growth of the work, even from one identical line to another, makes exact repetition impossible… Repetition is a nonverbal state; it cannot be committed to any art that occurs in time.&quot;  (pg 7)_
 
 Kawin&#39;s observation about near-repetition does also apply to digital loops from perspective of a viewer or reader, but in the materiality of computer code, digital looping enacts the same code and is not an accumulation.  This is perhaps what is so uncanny about computational repetition. A digital media loop feels like exact repetition because we know it could go on forever, while a looping action in a film, we sense, will have a limited set of cycles.
-
+<br>
 
 ![Samuel Beckett](/loops/beckett.gif)
 _Quad, by Samuel Beckett_
@@ -44,7 +44,7 @@ The variability of algorithmic repetition is found in many works of digital lite
 ## Exact Repetition
 
 To be perceived as repetition, rather than as a linear succession that simply returns to a beginning upon completion,the length of a loop cycle will have to fall in the range of short-term memory, which is under 20 seconds (Atkinson and Shiffrin (1971)).  In a computer, the loop is simply an instruction to repeat an action. Significantly, there is no labor in this return to origins, no &quot;rewind.&quot;  In digital representations of time and space, every point is virtually adjacent to any other point. What this means is that even a perceptible change between two frames, when set to loop, can be perceived as continuous motion. A distinct genre of digital loop art is the infinite loop, in which the illusion of linear succession is found in linking the end frame back to the start frame so that beginnings and endings give way to a hypnotic rhythm and seemingly endless flow. Eyes blinking, wings flapping, branches swaying, waves crashing are popular subjects fordigital loops, because they aim for mimesis and yet defy the logic of experience. Nothing in experience, except for perhaps a pendulum, presents to perception a potentially infinite, predictable and exact cycle of change.
-
+<br>
 
 ![Olia Lialina](/loops/olia.gif)
 _My Boyfriend Came Back from the War, by Olia Lialina_
@@ -54,12 +54,12 @@ The single short gif animation in Olia Lialina&#39;s _My Boyfriend Came Back fro
 The single short loop can also be packed with montaged images and sounds and can suggest temporal density or give an impression of speed and flux. Mark Amerika&#39;s _Filmtext_ uses the montaged loop sparingly to bring about surprising bursts of energy in sharp contrast to the desert landscape and relatively static interface. The work, being about &quot;metatourism,&quot; reflects a subjective space and temporality made of language effects rather than representations of an external world. The loop, along with text, movement, graphic elements and image, is part of an expressive toolset for the &quot;digital thoughtographer.&quot;
 
 ## Sequential Loops
-
+<br>
 ![Erik Loyer](/loops/loyer.gif)
 _Upgrade Soul, by Ezra Claytan Daniels and Erik Loyer_
 
 Motion comics are an emerging form of digital comics that include subtle, usually looping movements, within a sequence of panels. Eric Loyer is one of the leading artists and software designers in this form. His work with Ezra Claytan Daniels on the graphic novel _Upgrade Soul_, uses Loyer&#39;s own software Panoply, an engine that turns each panel of a comic into a 3D space in which layers of graphic elements loop motion for a parallax effect.  In Loyer&#39;s essay about motion comics, _Timeframing: the Art of Comics on Screen,_ he highlights this and other works that incorporate gif animations into sequenced panels, creating what Loyer calls &quot;temporal polyrhythms.&quot;  This music analogy is fitting, because of the different scales of simultaneous rhythms: the temporal map of the comic&#39;s inter-panel progression and the various nested intra-panel movements. Like Jean Epstein&#39;s nested loops in the carnival sequence of _Coeur Fid __è__ le__,_ the loops suggest varying scales of perceived or felt time within a clear narrative progression.
-
+<br>
 
 ![Atsuko Uda](/loops/uda1.gif) | ![Atsuko Uda](/loops/uda2.gif) |![Atsuko Uda](/loops/uda3.gif)
 _The Couple, by Atsuko Uda_
@@ -74,7 +74,7 @@ Jessica Pressman, in _Digital Modernism : Making It New in New Media_, traces th
 >When we are sitting on the bank of a river, the flowing of the water, the gliding of a boat or the flight of a bird, the uninterrupted murmur of our deep life, are for us three different things or a single one, at will…
 
 As in the above sentence, the prose depiction of simultaneity is a sequence of separate events brought into a whole by the author. In a movie, the sense of &quot;parallel action&quot; is made from a sequence of shots brought together by a clear narrative through-line. Works of more experimental literature and film, might depict simultaneity with spatially juxtaposed blocks of text and/or frames.
-
+<br>
 
 ![Jean-Louis Boissier](/loops/boissier1.gif)
 _Upgrade Soul, by Ezra Claytan Daniels and Erik Loyer_
@@ -92,7 +92,7 @@ Susie Vrobel&#39;s theory of fractal time is useful for thinking about how the n
 >The nested structure of the Now is the result of fractal temporal structures within the observer and in his environment. Outside the observer, for instance, tidal rhythms are embedded into seasonal rhythms, which again, are embedded in astronomical ones. Within the observer, for example, neural oscillations are embedded into much slower metabolic ones&quot; (pg. 8 Simultaneity)
 
 Vrobel makes clear that &quot;fractal time is a generalization, as the Newtonian metric of time may be defined as a special case of fractal time metrics.&quot; There are many way to measure the experience of time. The astronomical clock in Prague, dated around 1410, gives a simultaneous picture of clock time, calendar time, seasonal time and both astronomical and astrological time. Spatial and temporal fractals are found to be ubiquitous in nature, as well as in human physiology and psychology, but rarely in perfect mathematical recursion. To describe the experience of time from an observer perspective, Vrobel uses two temporal dimensions: simultaneity and succession. An observer sits in the backyard on a summer day reading a novel, feels a light breeze, is aware of the flickering patterns of light and shadow on the page, hears children splashing in a pool next door and a distant radio playing classic rock. All of these temporalities together bring up the observer&#39;s memories of past summers (past Nows) as a child. How is such a common experience to be described other than as a succession, a narrative, of distinct events in the flow of time? And yet, from the observer perspective, these nested temporalities – imaginary, tactile, visual and auditory– are experienced as one simultaneous now. &quot;Now is therefore not a point which divides the past from the future, but an extended field, which hosts a structure of temporally nested events – a fractal.&quot;
-
+<br>
 
 ![Gorman and Cannizzaro](/loops/pry1.gif)
 _Pry, by Samantha Gorman and Danny Cannizzaro_
