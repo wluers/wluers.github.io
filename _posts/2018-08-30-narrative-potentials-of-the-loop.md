@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Narrative Potentials of the Loop"
+title: "Narrative Potentials<br> of the Loop"
 author: "Will Luers"
 ---
 
