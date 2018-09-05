@@ -14,7 +14,7 @@ This Jekyll blog will hold my research and essays on _Digital Cinema-Writing_ as
 
 
 ## BIO
-Will Luers is digital media artist and writer living in Portland,Oregon. In the Creative Media & Digital Culture program at Washington State University Vancouver, he teaches multimedia authoring, creative programming, digital storytelling and digital cinema. His art works have been exhibited internationally and selected for various festivals and conferences, including the Electronic Literature Organization, FILE(Brazil) and ISEA. In 2016, his collaboration with Hazel Smith and Roger Dean (motions), was selected for the ELO Collection Volume 3.
+Will Luers is digital media artist and writer living in Portland, Oregon. In the _Creative Media & Digital Culture_ program at _Washington State University Vancouver_, he teaches multimedia authoring, creative programming, digital storytelling and digital cinema. His art works have been exhibited internationally and selected for various festivals and conferences, including the _Electronic Literature Organization_, _FILE_(Brazil) and _ISEA_. In 2016, his collaboration with Hazel Smith and Roger Dean (motions), was selected for the _ELO Collection Volume 3_.
 
 ## CONTACT
 w l u e r s @ g m a i l . com 
