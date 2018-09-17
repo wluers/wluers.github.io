@@ -100,7 +100,7 @@ As in the above sentence, the prose depiction of simultaneity is a sequence of s
 <br>
 
 ![Jean-Louis Boissier](/loops/boissier1.gif)
-_Upgrade Soul, by Ezra Claytan Daniels and Erik Loyer <br>(higher speed animation)_
+_Flora petrinsularis by Jean-Louis Boissier (1993)_
 
 <br>
 
